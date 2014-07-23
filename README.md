@@ -1,6 +1,6 @@
 # Launch Party Photobooth!
 
-This app was created to satisfy the need of a photobooth during Brazil's Firefox Australis launch party that took place at FISL. We've created an app based on [Christian Heilmann's Interaction Cam](http://codepo8.github.com/interaction-cam/). I've made a few changes (since we were not use MaKey MaKey unfortunately) and have created a personalized framing for our event.
+This app was created to satisfy the need of a photobooth during Brazil's Firefox Australis launch party that took place at FISL. We've created an app based on [Christian Heilmann's Interaction Cam](http://codepo8.github.com/interaction-cam/). I've made a few changes (since we were not using MaKey MaKey unfortunately) and have created a personalized framing for our event.
 
 ## Setup
 
