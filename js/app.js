@@ -251,7 +251,7 @@
   twittershare.addEventListener('click', function(ev) {
       var textToTweet = "Criar para a web é " +
           document.querySelector('#myfirefox').value +
-          " #MakerPartyWeekSP #Webmaker #TeachTheWeb" +
+          " #MakerPartyWeekSP #Webmaker #TeachTheWeb " +
           urlfield.href;
 
       var twtLink = 'http://twitter.com/home?status=' +
