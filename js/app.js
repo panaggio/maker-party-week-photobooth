@@ -97,8 +97,6 @@
 
       fd.append('image', shareImage);
 
-      xhr.open('POST', 'https://api.imgur.com/3/image.json');
-
       xhr.addEventListener('error', function(ev) {
           console.log('Upload Error!');
       }, false);
@@ -115,6 +113,9 @@
       }, false);
 
       xhr.setRequestHeader("Authorization", "Client-ID a41e1ecad14d783");
+
+      xhr.open('POST', 'https://api.imgur.com/3/image.json');
+
       xhr.send(fd);
   }
 
