@@ -112,9 +112,9 @@
           }
       }, false);
 
-      xhr.setRequestHeader("Authorization", "Client-ID c5f42321ca214b7");
-
       xhr.open('post', 'https://api.imgur.com/3/image.json');
+
+      xhr.setRequestHeader("Authorization", "Client-ID c5f42321ca214b7");
 
       xhr.send(fd);
   }
