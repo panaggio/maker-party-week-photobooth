@@ -129,7 +129,7 @@
       word = document.querySelector('#myfirefox').value;
       ctx.font="32px Open Sans";
       ctx.fillStyle = "#FFFFFF";
-      ctx.fillText(word, 355, 543);
+      ctx.fillText(word, 355, 526);
   }
 
   function timer(time,update,complete) {
